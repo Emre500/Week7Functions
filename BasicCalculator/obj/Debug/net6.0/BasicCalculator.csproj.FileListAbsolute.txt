@@ -1,0 +1,14 @@
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\bin\Debug\net6.0\BasicCalculator.exe
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\bin\Debug\net6.0\BasicCalculator.deps.json
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\bin\Debug\net6.0\BasicCalculator.runtimeconfig.json
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\bin\Debug\net6.0\BasicCalculator.dll
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\bin\Debug\net6.0\BasicCalculator.pdb
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.dll
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\refint\BasicCalculator.dll
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.pdb
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\emre3\source\repos\Week7Functions\BasicCalculator\obj\Debug\net6.0\ref\BasicCalculator.dll

@@ -1,0 +1,14 @@
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.AssemblyInfoInputs.cache
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.AssemblyInfo.cs
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\bin\Debug\net6.0\Week7PrintaArrayElements.exe
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\bin\Debug\net6.0\Week7PrintaArrayElements.deps.json
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\bin\Debug\net6.0\Week7PrintaArrayElements.runtimeconfig.json
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\bin\Debug\net6.0\Week7PrintaArrayElements.dll
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\bin\Debug\net6.0\Week7PrintaArrayElements.pdb
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.dll
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\refint\Week7PrintaArrayElements.dll
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.pdb
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\Week7PrintaArrayElements.genruntimeconfig.cache
+C:\Users\emre3\source\repos\Week7Functions\Week7PrintaArrayElements\obj\Debug\net6.0\ref\Week7PrintaArrayElements.dll
